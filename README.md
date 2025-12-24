@@ -1,2 +1,4 @@
 # Develop-demo
-This is my first Git Repository.Author- Bilal Ganie
+This is my first Git Repository.
+<br>
+Author- Bilal Ganie
